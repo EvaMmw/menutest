@@ -11,3 +11,7 @@
 ![dd](https://github.com/EvaMmw/menutest/blob/master/screenphotos/5.png)
 
 ![dd](https://github.com/EvaMmw/menutest/blob/master/screenphotos/6.png)
+
+![dd](https://github.com/EvaMmw/menutest/blob/master/screenphotos/7.png)
+
+![dd](https://github.com/EvaMmw/menutest/blob/master/screenphotos/8.png)
